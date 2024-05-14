@@ -1,0 +1,24 @@
+ .add{
+    height: 25rem;
+    background-color: lightblue;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+form input{
+    width: 20rem;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+}
+form button {
+    width: 20rem;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}

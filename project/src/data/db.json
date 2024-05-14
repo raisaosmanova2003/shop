@@ -1,0 +1,38 @@
+{
+  "products": [
+    {
+      "userId": 1,
+      "id": "1",
+      "image": "https://preview.colorlib.com/theme/shop/img/l5.jpg",
+      "name": "Long Sleeve shirt",
+      "price": "300"
+    },
+    {
+      "userId": 1,
+      "id": "2",
+      "image": "https://preview.colorlib.com/theme/shop/img/l6.jpg",
+      "name": "qui est esse",
+      "price": "400"
+    },
+    {
+      "userId": 1,
+      "id": "3",
+      "image": "https://preview.colorlib.com/theme/shop/img/l7.jpg",
+      "name": "trousers",
+      "price": "200"
+    },
+    {
+      "userId": 1,
+      "id": "4",
+      "image": "https://preview.colorlib.com/theme/shop/img/l8.jpg",
+      "name": "dress",
+      "price": "650"
+    },
+    {
+      "id": "f053c50b-aeeb-4f55-90ce-4fd4924c2ede",
+      "name": "s",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQA+AMBEQACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAADBAECBQYA/8QANxAAAgIBAwIFAgQFAgcBAAAAAQIAAxEEEiEFMRMiQVFhMnEGFIGhI1KRwdFCYiQzNENTsfEV/8QAGwEAAgMBAQEAAAAAAAAAAAAAAgMBBAUABgf/xAArEQACAwACAgICAwABBAMAAAAAAQIDERIhBDEiQQUyE1Fh0UKRobEUI1L/2gAMAwEAAhEDEQA/AE62mmmekG6jJYthu4lS4hFe0zpexvsGzYgHYQDkQWCyjDmLbBC0iKkwZDaiKFsuohog80avRyICw0GRYMCMQUUKWLmGmOQMVZjUHp4147w0ToeoALGxFtFGGWkhpdBkVQOYSAYjrQOcSR9YCnynM5MOXYdrhjuIWi+IrdZntI0ZGIgXbxOYI/FhrdPYkDAzDRVtSN3S0OwBYYEIz7JJGpXSFWcVW9K3vtWEjkJ2NtXM7Q1HRW+wtXggyOQ2EMeglexU27e05SCcYtmJU2O8NMuMareGmLcRpGyIi1AYTwZlz6YxA3WL04oMSGcezzFsgPSImQqSGkEWLZfENEA27xsRiJQ94aROEWDiMSCiL4xDQ0Km3AyI1A9i92PSGMij1faNQWFzWwPKkfeSCmirNtWdoWClgLnmQ2MXQA5HcSUwwNjNk4k6SiADJOZfT6U32YAzJAlZxR1HTenJUoO2Elhm3XNs1FVK1wBCKr1sgv8ApOBYrqCXB2ngCdoyC77EqwxOWPHpI0fJpIox3WlfQcyPsHejx",
+      "price": "111"
+    }
+  ]
+}

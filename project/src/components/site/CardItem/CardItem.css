@@ -1,0 +1,19 @@
+.card {
+    position: relative;
+}
+.card_icons {
+    left: 4rem;
+    top: 6rem;
+    position: absolute;
+}
+.card_icons a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+    background-color: white;
+}
+.card_icons a:hover  {
+color: #fa0000;
+
+
+}

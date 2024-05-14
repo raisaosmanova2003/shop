@@ -1,0 +1,53 @@
+.season {
+     background-color: #f52cdc;
+     width: 100%;
+     height:750px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    
+}
+
+.season_left {
+     padding-top: 12.6rem;
+}
+.season_left img {
+     width: 800px;
+     height: 549px;
+}
+.season_right {
+     width: 50%;
+
+}
+.season_right {
+     margin-bottom: 20px;
+}
+.season_right .off{
+     font-size: 48px;
+     font-weight: 400;
+     color: #fff;
+     margin-bottom: 20px;
+}
+.season_right .off .flat {
+     color: #fff;
+     font-size: 18px;
+     font-family: "Poppins", sans-serif;
+}
+.season_right .its {
+     color: #fff;
+     font-size: 72px;
+     font-weight: 700;
+     
+}
+.season_right button {
+     margin-top: 20px;
+     background-color: #fff;
+     border-radius: 20px;
+     padding: 8px 35px;
+     border: 1px solid transparent;
+}
+.season_right button a {
+     text-decoration: none;
+     font-weight: 600;
+     color: #000;
+}
